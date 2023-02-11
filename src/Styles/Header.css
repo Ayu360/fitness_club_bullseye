@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .header .header-Heading{
+    color: white;
+  }
+
+  .header .punchline{
+    color: aqua;
+  }
